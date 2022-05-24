@@ -1,0 +1,20 @@
+/* style.css */
+
+.class-1,
+.class-2 {
+
+    font-size: 28px;
+    font-family: "Times New Roman", "Helvetica", sans-serif;
+}
+
+.class-1 {
+
+    color: rgb(255,255,255);
+    background-color: rgb(0,0,0);
+}
+
+.class-2 {
+
+    background-color: rgb(229, 255, 0)
+}
+
