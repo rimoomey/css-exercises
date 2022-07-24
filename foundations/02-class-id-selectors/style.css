@@ -1,1 +1,22 @@
 /* style.css */
+
+.im-a-class {
+    background-color: lightcoral;
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.and-another {
+    font-size: 24px;
+}
+
+#number-1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
